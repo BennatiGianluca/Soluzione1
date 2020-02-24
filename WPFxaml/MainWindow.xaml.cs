@@ -22,7 +22,7 @@ namespace WPFxaml
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
     }
 }
